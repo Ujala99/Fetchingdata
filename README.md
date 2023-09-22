@@ -6,3 +6,7 @@ To fetch data from one file to another in Node.js, you can use the require funct
   1.Source File (source.js): This is the file from which you want to export data or functions.
 
   2.Destination File (destination.js): This is the file where you want to import and use the data or functions from the source file.
+
+
+##link
+https://docs.google.com/document/d/17-igH69Nw28ikC2WfJdoX2qSd7NDDA6Z86qSC-vUnq4/edit?usp=sharing
